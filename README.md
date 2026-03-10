@@ -37,22 +37,22 @@
 
 <hr>
 
-## GitHub Stats
+## GitHub Overview
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Kratos-Wen&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600"
-    alt="GitHub stats" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kratos-Wen&theme=default"
+    alt="GitHub profile summary" />
 </p>
 
 <hr>
 
-## Most Used Languages
+## Top Languages
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kratos-Wen&layout=compact&langs_count=8&hide_border=true&cache_seconds=3600"
-    alt="Top languages" />
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kratos-Wen&theme=default"
+    alt="Repos per language" />
 </p>
 
 ## GitHub Streak
