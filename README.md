@@ -41,8 +41,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Kratos-Wen&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    alt="GitHub stats">
+    src="https://github-readme-stats.vercel.app/api?username=Kratos-Wen&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=3600"
+    alt="GitHub stats" />
 </p>
 
 <hr>
@@ -51,11 +51,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kratos-Wen&layout=compact&langs_count=8&hide_border=true"
-    alt="Top languages">
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kratos-Wen&layout=compact&langs_count=8&hide_border=true&cache_seconds=3600"
+    alt="Top languages" />
 </p>
-
-<hr>
 
 ## GitHub Streak
 
