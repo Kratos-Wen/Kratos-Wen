@@ -27,9 +27,7 @@
 
 <hr>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kratos-Wen"/>
 
 ## Research Interests
 
@@ -40,8 +38,6 @@
 - Industrial AI
 
 <hr>
-
-## GitHub Overview
 
 <p align="center">
   <img
