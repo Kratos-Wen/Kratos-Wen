@@ -47,14 +47,6 @@
 
 <hr>
 
-## Top Languages
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kratos-Wen&theme=default"
-    alt="Repos per language" />
-</p>
-
 ## GitHub Streak
 
 <p align="center">
