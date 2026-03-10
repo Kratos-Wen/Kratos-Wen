@@ -27,7 +27,9 @@
 
 <hr>
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif">
+</p>
 
 ## Research Interests
 
