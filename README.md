@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="banner.png" width="100%">
+<img src="banner.jpg" width="100%">
 <!--
 **Kratos-Wen/Kratos-Wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
